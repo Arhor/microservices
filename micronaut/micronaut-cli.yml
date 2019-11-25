@@ -1,0 +1,5 @@
+profile: service
+defaultPackage: by.arhor.microservice
+---
+testFramework: junit
+sourceLanguage: java
